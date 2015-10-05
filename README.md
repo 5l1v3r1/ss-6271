@@ -8,6 +8,6 @@ I coded it after taking the Pentesterlab's course on CVE-6271 Shell Shock: <br /
 
 |dependencies|
 |------------|
-|gnome-terminal|
-|nc|
-|Bash|
+|gnome-terminal|For spawning a shell|
+|nc|For spawning a shell|
+|Bash|Written in Bash syntax|
